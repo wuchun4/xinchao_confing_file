@@ -1,0 +1,5 @@
+configuration_env: dev
+code_repo_url: git@gitlab.heartide.com:XC-iOS/xinchao_spec_source.git
+binary_repo_url: git@gitlab.heartide.com:XC-iOS/xinchao_spec_bin_dev.git
+binary_download_url: http://192.168.88.228:8050/frameworks/%s/%s/zip
+download_file_type: zip
